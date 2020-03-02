@@ -1,7 +1,7 @@
 # Twiter - clone
 Aula Bônus do Bootcamp da Rocketseat 
 
-imagem
+![twiter](https://user-images.githubusercontent.com/50602816/75651087-6d4d6700-5c36-11ea-8ea8-0f43d416c1d4.gif)
 
 ## :rocket: Tecnologias
 
